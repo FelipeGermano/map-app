@@ -82,4 +82,4 @@ Linha 1,Linha,"[[0,0],[1,1],[2,2]]"
 Polígono 1,Polígono,"[[0,0],[1,1],[1,0],[0,0]]"
 ```
 
-![exemplo](https://cloud.screenpresso.com/LWZzsE9Lttus/geo_original.gif)
+![screenshot](https://cloud.screenpresso.com/LWZzsE9Lttus/geo_original.gif)
