@@ -29,7 +29,7 @@ O **Map Editor App** é uma aplicação desenvolvida em Flutter que permite aos 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/map-editor-app.git
+   git clone https://github.com/FelipeGermano/map-app.git
    ```
 
 2. Navegue até o diretório do projeto:
